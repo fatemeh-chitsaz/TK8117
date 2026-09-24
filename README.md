@@ -30,8 +30,3 @@ TK8117/
     └── presentation.pdf
 ```
 
-## Purpose
-
-This repository collects the technical material I prepare for the course: literature review, explanatory presentations, and small computational demonstrations.
-
-Additional course topics may be added as the semester progresses.
